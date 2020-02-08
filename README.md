@@ -1,2 +1,2 @@
 # tr
-Terps Racing at UMD code repository
+Terps Racing at UMD Matlab code repository
